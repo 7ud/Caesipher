@@ -31,7 +31,7 @@ cd Caesipher
 pip3 install requirements.txt
 python3 main.py
 ```
-For Windows just unzip with your file manager.
+> For Windows just unzip with your file manager.
 
 # License
 
